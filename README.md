@@ -1,11 +1,20 @@
+# WeFlow
 
-### 本仓库只是暂时为个人使用，取自[原仓库](https://github.com/hicccc77/WeFlow)的最后一次commit版本，如若造成任何侵权，请联系删库。
+> **特别致敬**：感谢原作者 [@hicccc77](https://github.com/hicccc77) 及所有开源贡献者创造了如此优秀的本地微信数据管理工具。
+> 
+> 本仓库为独立保留副本，原仓库地址：[hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)。
 
-从源码构建：
+---
+
+### 说明
+
+本仓库取自原仓库的 Commit 版本，并在本地进行了底层引擎（解除时间限制与导出握手）的优化与修复。
+
+### 从源码构建
 
 ```bash
 # 1. 克隆项目到本地
-git clone https://github.com/hicccc77/WeFlow.git
+git clone https://github.com/angusdevgo/WeFlow.git
 cd WeFlow
 
 # 2. 安装项目依赖
@@ -17,23 +26,15 @@ npm run dev
 
 ### 致谢
 
-- [密语 CipherTalk](https://github.com/ILoveBingLu/miyu) 为本项目提供了基础框架
-- [WeChat-Channels-Video-File-Decryption](https://github.com/Evil0ctal/WeChat-Channels-Video-File-Decryption) 提供了视频解密相关的技术参考
-
-### 合作伙伴
-
-<p align="center">
-  <!-- 是的你没看错这里还是占位！
-  <a href="https://your-partner-website.com" target="_blank">
-    <img src="https://via.placeholder.com/150x50?text=Partner+1+Logo" alt="Partner Name" width="150" style="margin: 10px; vertical-align: middle;" />
-  </a> -->
-</p>
+- **[WeFlow 原作者 hicccc77](https://github.com/hicccc77/WeFlow)** 提供了优秀的聊天记录管理与年度报告应用框架
+- **[密语 CipherTalk](https://github.com/ILoveBingLu/miyu)** 为本项目提供了基础框架
+- **[WeChat-Channels-Video-File-Decryption](https://github.com/Evil0ctal/WeChat-Channels-Video-File-Decryption)** 提供了视频解密相关的技术参考
 
 ---
 
 ## 贡献者
 
-悼念所有做出贡献的开发者！
+向所有为本项目做出贡献的开发者致敬！
 
 <p align="center">
   <a href="https://github.com/hicccc77/WeFlow/graphs/contributors">
